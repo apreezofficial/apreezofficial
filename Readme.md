@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 
 
 - 🔭 I’m currently building **AI-powered assistants**, front-end & back-end apps.
 - 🌱 Learning and teaching: **Web Development**, **Cybersecurity**, **Data Analysis**, and **Flutter**.
