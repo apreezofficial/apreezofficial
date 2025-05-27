@@ -35,7 +35,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=tokyonight" alt="Streak Stats" />
   <br />
-  <img src="" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreezofficial&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
