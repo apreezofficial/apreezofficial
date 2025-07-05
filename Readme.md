@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Precious Adedokun (aka APCodeSphere) 👋</h1>
-<h3 align="center">Full Stack Dev • Blogger • Mentor</h3>
+<h3 align="center">Full Stack Dev • B.E HEAVY • PHP/LARAVEL DEV</h3>
 
 ---
 
 ### 🚀 About Me 
-
+-🖥️ Founder of Proforms
+-🥲Presently learning Next Js
 - 🔭 I’m currently building **AI-powered assistants**, front-end & back-end apps.
-- 🌱 Learning and teaching: **Web Development**, **Cybersecurity**, **Data Analysis**, and **Flutter**.
-- 🧠 Always creating projects like: `APQuotes Hub`, `AP-EDU Site`, `APGame Zone`, `AP Sports`, `APCal App`, and more.
-- 💬 Ask me about **JavaScript**, **PHP**, **React**, **Flutter**, **Firebase**, and **Cybersecurity**.
+- 🧠 Always creating projects like: `APX SHOPPING SITE`, `PHP PROJECTS`, `APGame Zone`, `AP Sports`, `APCal App`, and more.
+- 💬 Ask me about **JavaScript**, **PHP**, **React**, **Laravel**, **Firebase**, and **Blade Template**, **Next js**
 - ⚡ Fun fact: I started web dev in 2023 and robotics in 2018!
 
 ---
@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
