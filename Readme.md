@@ -9,7 +9,7 @@
 - 🧑‍💻 Portfolio: **[preciousadedokun.com.ng](https://preciousadedokun.com.ng)**  
 - 📚 Currently learning **Next.js** to expand my React ecosystem skills.  
 - 💬 Ask me about: **PHP, Laravel, Livewire, Blade, MySQL, React, Tailwind CSS**  
-- ⚡ Fun Fact: I started web development in 2023 but robotics in 2018!
+- ⚡ Fun Fact: I started web development in 2022 but robotics in 2018!
 
 ---
 
@@ -22,7 +22,7 @@
 - **Tailwind CSS**  
 
 #### Currently Learning  
-- **Next.js**
+- **Figma**
 
 ---
 
