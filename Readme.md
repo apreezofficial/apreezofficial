@@ -38,8 +38,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apreezofficial&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=tokyonight" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreezofficial&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
