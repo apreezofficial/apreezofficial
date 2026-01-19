@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> About Me
+### About Me
 
 I am a **Full Stack Developer** and **Technical SEO Strategist** focused on building high-performance, search-optimized web applications. I specialize in backend-heavy architectures with **PHP & Laravel**, ensuring every project I build is not only performant but also perfectly indexable and rankable. 
 
@@ -42,7 +42,7 @@ I am a **Full Stack Developer** and **Technical SEO Strategist** focused on buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=tokyonight&hide_border=true " alt="GitHub Streak" />
 </p>
 
 ---
