@@ -39,12 +39,12 @@ I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apreezofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreezofficial&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f97316" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apreezofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreezofficial&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f97316&include_all_commits=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apreezofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316&sideNums=f97316&sideStats=f97316&topLang=f97316&topLangColor=f97316&title_color=f97316" alt="Streak"/>
 </p>
 
 ---
