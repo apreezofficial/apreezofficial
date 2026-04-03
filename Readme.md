@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://preciousadedokun.com.ng">
-    <img src="https://preciousadedokun.com.ng/og-image.png" alt="Precious Adedokun - Full Stack Developer" width="1200" height="630"/>
+    <img src="https://preciousadedokun.com.ng/og-image.png" alt="Precious Adedokun - Full Stack Developer" width="1200" height="630" style="max-width: 100%; height: auto; border-radius: 12px;"/>
   </a>
 </p>
 
@@ -44,7 +44,7 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.vercel.app/?user=apreezofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316 alt="Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=apreezofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="Streak"/>
 </p>
 
 ---
