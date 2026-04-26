@@ -44,7 +44,7 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=apreezofficial&theme=dark&hide_border=false&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=apreezofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="Streak"/>
 </p>
 
 ---
