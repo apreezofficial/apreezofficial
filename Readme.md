@@ -52,7 +52,7 @@ I specialize in:
 ## 🏆 Featured Projects
 
 ### [ProForms](https://proforms.top)
-Dynamic form builder & data collection SaaS platform built with Laravel, Livewire, and Next.js. Serving 55,000+ users.
+Dynamic form builder & data collection SaaS platform built with Laravel, Livewire, and Next.js. Serving 200+ users.
 
 ![ProForms](https://preciousadedokun.com.ng/images/proforms/landing.png)
 
